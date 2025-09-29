@@ -35,8 +35,6 @@ const LoginPage = () => {
 
   const demoCredentials = [
     { email: 'priya.sharma@healthguard.ne', role: 'District Health Officer' },
-    { email: 'rajesh.kumar@healthguard.ne', role: 'Medical Officer' },
-    { email: 'meera.devi@healthguard.ne', role: 'ASHA Worker' }
   ];
 
   return (
@@ -158,7 +156,7 @@ const LoginPage = () => {
 
         {/* Footer */}
         <div className="text-center text-sm text-gray-600">
-          <p>© 2024 HealthGuard NE. All rights reserved.</p>
+          <p>© 2025 HealthGuard NE. All rights reserved.</p>
         </div>
       </div>
     </div>
